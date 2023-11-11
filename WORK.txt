@@ -1,3 +1,4 @@
 WORK 목록
 
 1. DOG : dog 정보 추가
+2. CAT : cat 정보추가
